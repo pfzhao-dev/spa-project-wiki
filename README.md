@@ -1,4 +1,4 @@
-## This is an archived copy of the NUS CS3203 SPA Project Wiki for AY2021-22, Semester 1 for future reference.
+### This is an archived copy of the NUS CS3203 SPA Project Wiki for AY2021-22, Semester 1 for future reference.
 
 # CS3203 Project Wiki
 
